@@ -12,7 +12,7 @@
   {
     "title": "FIDO2 the Rescue? Platform vs. Roaming Authentication on Smartphones",
     "authors": [
-      "Leon W\u00fcefersching",
+      "Leon W\u00fcrsching",
       "Florentin Putz",
       "Steffen Haesler",
       "Matthias Hollick"
@@ -20,5 +20,103 @@
     "year": 2023,
     "doi": "10.1145/3544548.3580993",
     "url": "https://doi.org/10.1145/3544548.3580993"
+  },
+  {
+    "title": "Biometric Multi-Factor Authentication: On the Usability of the FingerPIN Scheme",
+    "authors": [
+      "Emanuela Marasco",
+      "Massimiliano Albanese",
+      "Venkata Vamsi Ram",
+      "Anudeep Vurity",
+      "Sumanth Sai Sriram"
+    ],
+    "year": 2022,
+    "doi": "10.1002/spy2.261",
+    "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/spy2.261"
+  },
+  {
+    "title": "Challenges with Passwordless FIDO2 in an Enterprise Setting: A Usability Study",
+    "authors": [
+      "Michal Kepkowski",
+      "Maciej Machulak",
+      "Ian Wood",
+      "Dali Kaafar"
+    ],
+    "year": 2023,
+    "doi": "10.48550/arXiv.2308.08096",
+    "url": "https://arxiv.org/abs/2308.08096"
+  },
+  {
+    "title": "Multi-Factor Authentication: A User Experience Study",
+    "authors": [
+      "Shagufta Baseer",
+      "K. S. Charumathi"
+    ],
+    "year": 2024,
+    "doi": "10.2139/ssrn.4840295",
+    "url": "https://ssrn.com/abstract=4840295"
+  },
+  {
+    "title": "A Comparative Study of Passwordless Authentication",
+    "authors": [
+      "Abhishek Prasad"
+    ],
+    "year": 2025,
+    "doi": "10.36227/techrxiv.171560547.71979752/v1",
+    "url": "https://doi.org/10.36227/techrxiv.171560547.71979752/v1"
+  },
+  {
+    "title": "The Utility of Behavioral Biometrics in User Authentication and Demographic Characteristic Detection: A Scoping Review",
+    "authors": [
+      "O. L. Finnegan",
+      "J. W. White III",
+      "B. Armstrong",
+      "E. L. Adams",
+      "S. Burkart",
+      "M. W. Beets",
+      "S. Nelakuditi",
+      "E. A. Willis",
+      "L. von Klinggraeff",
+      "H. Parker",
+      "M. Bastyr",
+      "X. Zhu",
+      "Z. Zhong",
+      "R. G. Weaver"
+    ],
+    "year": 2024,
+    "doi": "10.1186/s13643-024-02451-1",
+    "url": "https://doi.org/10.1186/s13643-024-02451-1"
+  },
+  {
+    "title": "Comprehensive Survey: Biometric User Authentication Application, Evaluation, and Discussion",
+    "authors": [
+      "Reem Alrawili",
+      "Ali Abdullah S. AlQahtani",
+      "Muhammad Khurram Khan"
+    ],
+    "year": 2024,
+    "doi": "Unavailable",
+    "url": "Unavailable"
+  },
+  {
+    "title": "On the Usability of Next-Generation Authentication: A Study on Eye Movement and Brainwave-based Mechanisms",
+    "authors": [
+      "Matin Fallahi",
+      "Patricia Arias-Cabarcos",
+      "Thorsten Strufe"
+    ],
+    "year": 2024,
+    "doi": "10.48550/arXiv.2402.15388",
+    "url": "https://arxiv.org/abs/2402.15388"
+  },
+  {
+    "title": "Understanding User Perspectives on Biometric Technology",
+    "authors": [
+      "Alexander P. Pons",
+      "Peter Polak"
+    ],
+    "year": 2008,
+    "doi": "10.1145/1378727.1389971",
+    "url": "https://doi.org/10.1145/1378727.1389971"
   }
 ]
