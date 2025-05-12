@@ -8,5 +8,17 @@
     "year": 2023,
     "doi": "10.48550/arXiv.2312.02845",
     "url": "https://arxiv.org/abs/2312.02845"
+  },
+  {
+    "title": "FIDO2 the Rescue? Platform vs. Roaming Authentication on Smartphones",
+    "authors": [
+      "Leon W\u00fcefersching",
+      "Florentin Putz",
+      "Steffen Haesler",
+      "Matthias Hollick"
+    ],
+    "year": 2023,
+    "doi": "10.1145/3544548.3580993",
+    "url": "https://doi.org/10.1145/3544548.3580993"
   }
 ]
